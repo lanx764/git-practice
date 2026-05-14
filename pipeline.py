@@ -1,5 +1,5 @@
 def extract():
-    print("Extracting data")
+    print("Extracting data from source A")
 
 def transform():
     print("Transforming data")
