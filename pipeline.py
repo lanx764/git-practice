@@ -6,3 +6,6 @@ def transform():
 
 def load():
     print("Loading data")
+
+def log_result(message):
+    print(f"LOG: {message}")
