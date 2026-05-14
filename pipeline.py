@@ -9,3 +9,6 @@ def load():
 
 def log_result(message):
     print(f"LOG: {message}")
+
+def validate():
+    print("Validating data")
