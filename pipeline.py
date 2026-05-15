@@ -13,3 +13,4 @@ def log_result(message):
 def validate():
     print("Validating data")
 def new_feature(): pass
+def is_valid_email(email): return '@' in email
